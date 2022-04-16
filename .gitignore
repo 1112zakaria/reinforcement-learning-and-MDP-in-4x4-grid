@@ -1,0 +1,11 @@
+
+# MacOS thing and .vscode
+.DS_Store
+.vscode
+
+# Assignment pdf
+*.pdf
+
+# Virtualenv folder
+env
+
